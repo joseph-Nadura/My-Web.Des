@@ -48,8 +48,9 @@ header
     
 }
 
-footer{
-    background:Crimson:
-    color:whitesmoke;
-    text-align:center:
-    }
+footer {
+        text-align: center;
+        padding: 3px;
+        background-color:crimson;
+        color: white;
+ }
