@@ -1,0 +1,49 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration:none;
+}
+header
+{  
+    height: 100vh;
+    width: 100vw;
+    background-image:url("./Images/S1.jpg");
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+ 
+} 
+.header-content{
+    margin-bottom:130px;
+    color: whitesmoke;
+    text-align: center;
+}
+.header-content h2{
+    font-size: 4vmin;
+}
+.header-content h1{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 7vmin;
+}
+.line{
+    width: 160px;
+    height: 5px;
+    background: crimson;
+    border-radius: 6px;
+    margin: 11px auto;
+}
+.LM{
+    padding:9px 15px ;
+    background: crimson;
+    border-radius: 30px;
+    color: whitesmoke;
+    
+}
