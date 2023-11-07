@@ -19,7 +19,7 @@ header
  
 } 
 .header-content{
-    margin-bottom:130px;
+    margin-bottom:120px;
     color: whitesmoke;
     text-align: center;
 }
@@ -29,8 +29,8 @@ header
 .header-content h1{
     text-align: center;
     color: whitesmoke;
-    margin-top: 50px;
-    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 25px;
     font-size: 7vmin;
 }
 .line{
