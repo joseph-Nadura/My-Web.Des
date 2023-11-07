@@ -29,16 +29,9 @@ header
 .header-content h1{
     text-align: center;
     color: whitesmoke;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 25px;
     font-size: 7vmin;
-}
-.line{
-    width: 160px;
-    height: 5px;
-    background: crimson;
-    border-radius: 6px;
-    margin: 11px auto;
 }
 .LM{
     padding:9px 15px ;
