@@ -45,7 +45,7 @@ header
     width: 100vw;
     color:whitesmoke;
     background-image:url("./images/LM.jpg");
-     background-position: bottom;
+    background-position: bottom;
     background-size: cover;
     display: flex;
     align-items: flex-end;
