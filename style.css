@@ -40,6 +40,10 @@ header
     color: whitesmoke;
     
 }
+.learnmore{
+    color:whitesmoke;
+    background-image:url("./images/LM.jpg");
+}
 
 footer {
         text-align: center;
