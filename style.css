@@ -54,6 +54,5 @@ footer {
     background-position: bottom;
     background-size: cover;
     display: flex;
-    align-items: flex-end;
     justify-content: center;
 }
